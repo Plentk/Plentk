@@ -6,6 +6,7 @@
 </picture>
 --->
 
+# Pleasant Little Engineered Neat Teal Kernel
 - 👋 Hi, I’m @Plentk
 - 👀 I’m interested in networks (graph theory😮)
 - 🌱 I’m currently learning how to be a better person
