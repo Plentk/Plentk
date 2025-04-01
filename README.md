@@ -20,6 +20,11 @@
 > There are 10 different things, it depends on what number base is used.
 
 -- Plentk, 2024
+
+## Credits
+### Profile Picture: 
+Crow Card image from game Inscryption
+
 <!---
 Plentk/Plentk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
