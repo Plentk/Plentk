@@ -9,9 +9,9 @@
 # Peaceful Leisurely Equatorial Noteworthy Terrific Knowledge[^1]
 - 👋 Hi, I’m @Plentk
 - 👀 I’m interested in networks (graph theory😮), history & cartography (specifically transportation systems)
-- 🌱 I’m currently learning how to be a better person
+- 🌱 I’m currently learning how to be a better person, leader, communicator
 - 💞️ I’m looking to collaborate on anything you want me to. Just reach out for me!
-- 📫 How to reach me: extend your long arms and tap me on the back. I will respond immediately if action is done.
+- 📫 How to reach me: extend your long arms and tap me on the back. I will respond as soon as possible if action is done.
 - 😄 Pronouns: he/him
 - 🐦 Fun fact 1: never ask me to distinguish between different bird species
 - ⚡ Fun fact 2: I forgot what I originally created this github account for
