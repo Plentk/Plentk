@@ -23,7 +23,7 @@
 
 ## Credits
 ### Profile Picture: 
-Crow Card image from game Inscryption
+Raven Card image from game Inscryption
 
 [^1]: Mediocre backronym I made......
 <!---
