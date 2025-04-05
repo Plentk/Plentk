@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning how to be a better person, leader, communicator
 - 💞️ I’m looking to collaborate on anything you want me to. Just reach out for me!
 - 📫 How to reach me: extend your long arms and tap me on the back. I will respond as soon as possible if action is done.
+- 🇸🇬 Proud (and Complaining) Singaporean
 - 😄 Pronouns: he/him
 - 🐦 Fun fact 1: never ask me to distinguish between different bird species
 - ⚡ Fun fact 2: I forgot what I originally created this github account for
