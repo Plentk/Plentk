@@ -14,8 +14,9 @@
 - 📫 How to reach me: extend your long arms and tap me on the back. I will respond as soon as possible if action is done.
 - 🇸🇬 Proud (and Complaining) Singaporean
 - 😄 Pronouns: he/him
-- 🐦 Fun fact 1: never ask me to distinguish between different bird species
+- 🐦 Fun fact 1: never ask me to distinguish between different bird species (crow vs mynah)
 - ⚡ Fun fact 2: I forgot what I originally created this github account for
+- 
 
 ---
 > There are 10 different things, it depends on what number base is used.
