@@ -7,6 +7,7 @@
 --->
 
 # Peaceful Leisurely Equatorial Noteworthy Terrific Knowledge[^1]
+## About Me
 - :wave: Hi, I’m @Plentk
 - :eyes: I’m interested in networks (graph theory :astonished:), history & cartography (specifically transportation systems)
 - :seedling: I’m currently learning how to be a better person, leader, communicator
@@ -24,15 +25,17 @@
 > There are 10 different things, it depends on what number base is used.
 
 -- Plentk, 2024
+## TODO List:
+* [ ] Portfolio website
+  * Initialising Portfolio Website
+  * Completing Portfolio Website
+* [x] Not have overdue work
+* [ ] Pace out learning appropriately
+* [ ] Get Hacktober Badge
 
 ## Credits
 ### Profile Picture: 
 Raven Card image from game Inscryption
-
-###### TODO:
-- [ ] Make a portfolio website
-- [x] Not have overdue work
-- [ ] Pace out learning appropriately
 
 [^1]: Mediocre backronym I made......
 <!---
