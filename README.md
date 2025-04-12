@@ -29,6 +29,11 @@
 ### Profile Picture: 
 Raven Card image from game Inscryption
 
+###### TODO:
+- [ ] Make a portfolio website
+- [x] Not have overdue work
+- [ ] Pace out learning appropriately
+
 [^1]: Mediocre backronym I made......
 <!---
 Plentk/Plentk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
