@@ -12,12 +12,12 @@
 - :eyes: I’m interested in networks (graph theory :astonished:), history & cartography (specifically transportation systems)
 - :seedling: I’m currently learning how to be a better person, leader, communicator
 - :handshake: I’m looking to collaborate on anything you want me to. Just reach out for me!
-- :mailbox_with_mail: How to reach me: extend your long arms and tap me on the back. I will respond as soon as possible if action is done.
+- :mailbox_with_mail: How to reach me: extend your long arms and tap me on the back; I will respond as soon as possible if action is done
 - <!--- :singapore: Proud (and Complaining) Singaporean--->
 - :smile: Pronouns: he/him
 - :bird: Fun Fact 1: never ask me to distinguish between different bird species (crow vs mynah)
 - :thinking: Fun Fact 2: I forgot what I originally created this github account for
-- 
+- :candy: Fun Fact 3: I ran out of fun facts to say. Apologies for the inconvenience caused
 
 
 
