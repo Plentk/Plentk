@@ -15,8 +15,8 @@
 - :mailbox_with_mail: How to reach me: extend your long arms and tap me on the back. I will respond as soon as possible if action is done.
 - <!--- :singapore: Proud (and Complaining) Singaporean--->
 - :smile: Pronouns: he/him
-- :bird: Fun fact 1: never ask me to distinguish between different bird species (crow vs mynah)
-- :thinking: Fun fact 2: I forgot what I originally created this github account for
+- :bird: Fun Fact 1: never ask me to distinguish between different bird species (crow vs mynah)
+- :thinking: Fun Fact 2: I forgot what I originally created this github account for
 - 
 
 
@@ -27,8 +27,8 @@
 -- Plentk, 2024
 ## TODO List:
 * [ ] Portfolio website
-  * Initialising Portfolio Website
-  * Completing Portfolio Website
+  * [x] Initialising Portfolio Website
+  * [ ] Completing Portfolio Website
 * [x] Not have overdue work
 * [ ] Pace out learning appropriately
 * [ ] Get Hacktober Badge
