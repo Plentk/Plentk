@@ -27,10 +27,10 @@
 -- Plentk, 2024
 ## TODO List:
 * [ ] Portfolio website
-  * [x] Initialising Portfolio Website
+  * [ ] Initialising Portfolio Website
   * [ ] Completing Portfolio Website
 * [x] Not have overdue work
-* [ ] Pace out learning appropriately
+* [ ] Pace out learning appropriately and responsibly
 * [ ] Get Hacktober Badge
 
 ## Credits
