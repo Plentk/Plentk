@@ -6,7 +6,7 @@
 </picture>
 --->
 
-# Peaceful Leisurely Equatorial Noteworthy Terrific Knowledge[^1]
+# Peaceful Leisurely Early Noteworthy Terrific Knowledge[^1]
 ## About Me
 - :wave: Hi, I’m @Plentk
 - :eyes: I’m interested in networks (graph theory :astonished:), history & cartography (specifically transportation systems)
@@ -32,6 +32,7 @@
 * [x] Not have overdue work
 * [ ] Pace out learning appropriately and responsibly
 * [ ] Get Hacktober Badge
+* [ ] Achieve mastery in coding
 
 ## Credits
 ### Profile Picture: 
