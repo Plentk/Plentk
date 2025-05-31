@@ -17,7 +17,8 @@
 - :smile: Pronouns: he/him
 - :bird: Fun Fact 1: never ask me to distinguish between different bird species (crow vs mynah)
 - :thinking: Fun Fact 2: I forgot what I originally created this github account for
-- :candy: Fun Fact 3: I ran out of fun facts to say. Apologies for the inconvenience caused
+- :computer: Fun Fact 3: Longest Github Streak: 27 days
+- :candy: Fun Fact 4: I ran out of fun facts to say; here is a candy for your troubles. Apologies for the inconvenience caused
 
 
 
