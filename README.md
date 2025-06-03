@@ -34,6 +34,13 @@
 * [ ] Pace out learning appropriately and responsibly
 * [ ] Get Hacktober Badge
 * [ ] Achieve mastery in coding
+  * [ ] Python
+  * [ ] Javascript
+  * [ ] C++
+  * [ ] HTML
+  * [ ] CSS
+  * [ ] node.js
+  * [ ] typescript
 
 ## Credits
 ### Profile Picture: 
