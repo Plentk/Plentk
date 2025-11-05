@@ -35,10 +35,13 @@
 * [ ] Get Hacktober Badge
 * [ ] Achieve mastery in coding
   * [ ] Python
+    * [x] Basic knowledge obtained
   * [ ] Javascript
   * [ ] C++
   * [ ] HTML
+    * [x] Watched finish basic HTML course video
   * [ ] CSS
+    * [x] Watched finish basic CSS course video 
   * [ ] node.js
   * [ ] typescript
 
