@@ -41,9 +41,14 @@
   * [ ] HTML
     * [x] Watched finish basic HTML course video
   * [ ] CSS
-    * [x] Watched finish basic CSS course video 
+    * [x] Watched finish basic CSS course video
+    * [x] Master tailwind.css
   * [ ] node.js
+  * [ ] next.js
   * [ ] typescript
+  * [ ] Javascript
+    * [ ] Basics nailed down
+    * [ ] Master Javascript
 
 ## Credits
 ### Profile Picture: 
