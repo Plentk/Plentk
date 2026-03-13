@@ -30,12 +30,13 @@
 * [ ] Portfolio website
   * [ ] Initialising Portfolio Website
   * [ ] Completing Portfolio Website
-* [x] Not have overdue work
+* [ ] Not have overdue work
 * [ ] Pace out learning appropriately and responsibly
 * [ ] Get Hacktober Badge
 * [ ] Achieve mastery in coding
   * [ ] Python
     * [x] Basic knowledge obtained
+    * [x] Basic Object Oriented Programming
   * [ ] Javascript
   * [ ] C++
   * [ ] HTML
