@@ -51,6 +51,12 @@
     * [ ] Basics nailed down
     * [ ] Master Javascript
 
+## Skills!
+![](https://raw.githubusercontent.com/Plentk/githubstats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Plentk/githubstats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Plentk/githubstats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Plentk/githubstats/master/generated/overview.svg#gh-light-mode-only)
+
 ## Credits
 ### Profile Picture: 
 Raven Card image from game Inscryption
