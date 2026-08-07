@@ -7,6 +7,10 @@
 --->
 
 # Peaceful Leisurely Early Noteworthy Terrific Knowledge[^1]
+[![Website Badge](https://img.shields.io/badge/-plentk.github.io-9900aa?style=flat&logo=Google-Chrome&logoColor=white&link=https://plentk.github.io)](https://plentk.github.io)
+[![Instagram Badge](https://img.shields.io/badge/-@plentk.sg-fa9e0d?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plentk.sg/)](https://instagram.com/plentk.sg)
+[![Gmail Badge](https://img.shields.io/badge/-plentk.sg-d42e12?style=flat&logo=Gmail&logoColor=white&link=mailto:plentk.sg@gmail.com)](mailto:plentk.sg@gmail.com)
+
 ## About Me
 - :wave: Hi, I’m @Plentk
 - :eyes: I’m interested in networks (graph theory :astonished:), history & cartography (specifically transportation systems)
