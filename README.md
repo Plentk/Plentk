@@ -11,6 +11,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@plentk.sg-fa9e0d?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plentk.sg/)](https://instagram.com/plentk.sg)
 [![Gmail Badge](https://img.shields.io/badge/-plentk.sg-d42e12?style=flat&logo=Gmail&logoColor=white&link=mailto:plentk.sg@gmail.com)](mailto:plentk.sg@gmail.com)
 
+
+![Python](https://img.shields.io/badge/Python-005ec4?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-d42e12?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-005ec4?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fa9e0d?logo=javascript&logoColor=black)
+
 ## About Me
 - :wave: Hi, I’m @Plentk
 - :eyes: I’m interested in networks (graph theory :astonished:), history & cartography (specifically transportation systems)
