@@ -47,8 +47,8 @@
   * [ ] Python
     * [x] Basic knowledge obtained
     * [x] Basic Object Oriented Programming
-  * [ ] Javascript
   * [ ] C++
+    * [x] Basics 
   * [ ] HTML
     * [x] Watched finish basic HTML course video
   * [ ] CSS
